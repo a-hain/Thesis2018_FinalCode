@@ -6,4 +6,6 @@ All relevant parameters for activation maximization can be adjusted in am_consta
 
 am_tools.py contains methods helping with the optimization process, but does not need to be accessed when you simply want to use the method.
 
-The network file is too large to be uploaded on GitHub. Please download bvlc_alexnet.npy from this source: https://www.cs.toronto.edu/~guerzhoy/tf_alexnet/
+caffe_classes.py contains the classes learned by the network.
+
+The network weights file is too large to be uploaded on GitHub. Please download bvlc_alexnet.npy from this source: https://www.cs.toronto.edu/~guerzhoy/tf_alexnet/
