@@ -1,4 +1,4 @@
-This is the final code for the thesis "Exploring and Comparing Visualization Techniques for Neural Networks", handed in September 26th, 2018.
+This is the final code for the thesis "Exploring and Comparing Visualization Techniques for Neural Networks" by Antonia Hain, handed in September 26th, 2018.
 
 am_alexnet.py is the main module that needs to be executed. It will start the optimization process automatically. Per default, a random unit in the last layer is optimized using a combination of regularizations.
 
